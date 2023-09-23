@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.177" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/drawable/round_red_button.xml" value="0.177" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/drawable/rounded_button.xml" value="0.177" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/drawable/transparent_cardview.xml" value="0.177" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/layout/activity_details.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/layout/fragment_home_fragmnet.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/layout/headline_ist_item.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/layout/news_row.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/Arpit Singh/AndroidStudioProjects/News_App/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.24635416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

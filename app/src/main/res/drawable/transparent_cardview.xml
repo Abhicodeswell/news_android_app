@@ -1,0 +1,11 @@
+<!-- res/drawable/transparent_cardview.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Transparent background -->
+    <solid android:color="#00000000" /> <!-- Fully transparent -->
+
+    <!-- Optionally, set rounded corners -->
+    <corners android:radius="8dp" /> <!-- Adjust the radius as needed -->
+
+
+
+</shape>
